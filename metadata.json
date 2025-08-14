@@ -1,0 +1,8 @@
+{
+  "name": "AI Math Question Solver",
+  "description": "An application that uses AI to solve multiple-choice math questions. It normalizes expressions, calculates the result, and selects the correct option.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
